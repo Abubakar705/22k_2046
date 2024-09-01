@@ -1,0 +1,44 @@
+Objective 2: Pseudo code.
+
+Task 1
+
+•	Take three variables as input and add them without using the + operator (Use your head for this)
+
+1.	Start
+2.	//input/output
+3.	 Input number 1
+4.	Input number 2
+5.	Input number 3
+6.	//Variable and initialization
+7.	Set sum to 0
+8.	//Process step
+9.	Set sum to (number1)XOR(number2)
+10.	Sum=(sum)XOR(number3)
+11.	Print the sum  
+
+
+
+
+
+Task 2
+
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+1.	Start
+2.	//input/output
+3.	Input number 1
+4.	Input number 2
+5.	Input number 3
+6.	//variable initialization 
+7.	Set sum to 0
+8.	Set difference to 0
+9.	 //process step
+10.	addition=number1+number2+number3
+11.	subtraction =number1-number2-number3
+12.	//conditional statement
+13.	If operator==”+”
+14.	Perform addition
+15.	Else
+16.	Perform subtraction.
+17.	 End.
+
+
